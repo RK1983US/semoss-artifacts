@@ -59,7 +59,7 @@ fi
 # separately above/below and are intentionally left out of the loop.
 ##### =====================================================================
 
-OAUTH_PROVIDERS="adfs dropbox generic github google ms okta siteminder"
+OAUTH_PROVIDERS="adfs dropbox generic github gitlab google ms okta siteminder"
 
 # <ENV_VAR_SUFFIX>:<social.properties key suffix>
 OAUTH_KEYS="CLIENT_ID:client_id \
